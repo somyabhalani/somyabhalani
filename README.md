@@ -87,24 +87,9 @@ HTML-based toolkit for modern web applications.
 
 ---
 
-## Running Locally
 
-If you want to run this portfolio site locally:
 
-```bash
-# Clone the repo
-git clone https://github.com/somyabhalani/somyabhalani-portfolio
-cd somyabhalani-portfolio
 
-# Install dependencies
-npm install
-
-# Run development server
-npm run dev
-
-# Build for production
-npm run build
-```
 
 ---
 
