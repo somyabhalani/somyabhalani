@@ -45,19 +45,14 @@ HTML-based toolkit for modern web applications.
 
 ---
 
-## Tech Stack
 
-**Languages:**
-- Python (Data processing, AI systems)
-- TypeScript (Infrastructure, type safety)
-- HTML/CSS (Frontend, design)
 
 **Interests:**
-- Distributed systems
+
 - System design
 - Infrastructure automation
 - AI/ML architecture
-- DevOps patterns
+
 
 ---
 
@@ -93,11 +88,8 @@ HTML-based toolkit for modern web applications.
 
 ---
 
-## License
-
-This portfolio is open source. Feel free to use it as inspiration for your own.
 
 ---
 
 **Last Updated:** July 2026  
-**Built with:** Next.js, Vercel, TypeScript
+
