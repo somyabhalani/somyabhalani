@@ -1,69 +1,80 @@
 <div align="center">
+  <br>
+  <h1>S O M Y A &nbsp; B H A L A N I</h1>
+  <h4>A I &nbsp; S O L U T I O N S &nbsp; A R C H I T E C T</h4>
+  
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Architecting+intelligence+that+reasons;Forward+Deployed+AI+Engineering;Computer+Vision+%26+Robotics;Specializing+in+RAG+%26+Software+Architecture;Founder+at+Ananta+Labs&center=true&width=500&height=50&font=Cormorant+Garamond&size=20&color=8b7355" alt="Typing SVG" />
+  </a>
+  <br>
 
-<img src="./assets/banner.svg" alt="Somya Bhalani, Founder of Ananta Labs. Architecting intelligence that reasons, perceives, and acts." width="100%">
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-somyabhalani-5B45D6?style=for-the-badge&logo=vercel&logoColor=white)](https://somyabhalani-portfolio.vercel.app/)
-[![Ananta Labs](https://img.shields.io/badge/Ananta_Labs-anantalabs.app-E0508F?style=for-the-badge)](https://www.anantalabs.app)
-[![Email](https://img.shields.io/badge/Email-somyabhalani@gmail.com-221C3D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somyabhalani@gmail.com)
-
-**AI Solutions Architect and Intelligence Architect.** B.Tech CSE (Artificial Intelligence). Gujarat, India.
-
+  <a href="https://www.anantalabs.app"><b>Ananta Labs</b></a> &nbsp; ✦ &nbsp; 
+  <a href="mailto:hello@anantalabs.app"><b>hello@anantalabs.app</b></a> &nbsp; ✦ &nbsp; 
+  <a href="mailto:somyabhalani@gmail.com"><b>somyabhalani@gmail.com</b></a>
+  <br><br>
 </div>
 
 ---
 
-I build working, technically substantial AI systems for real-world use, where reasoning, computer vision, robotics and forward deployed engineering meet. I choose raw data extraction, context management and hybrid retrieval over generic cloud wrappers.
+<br>
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<h3 align="center">T H E &nbsp; A R C H I T E C T U R E &nbsp; O F &nbsp; I N T E L L I G E N C E</h3>
 
-### Reasons
-RAG, custom LLM integration, embedding pipelines, and autonomous systems that execute multi-step tasks.
+I am the Founder of **[Ananta Labs](https://www.anantalabs.app)**, an AI engineering and intelligent-systems studio based in Junagadh, Gujarat. My focus lies at the intersection of reasoning systems, intelligent software architecture, computer vision, and robotics.
 
-</td>
-<td width="33%" valign="top">
+My engineering philosophy prioritizes raw data extraction, context management, and hybrid retrieval over generic cloud wrappers. I specialize in architecting intelligent systems that perceive, reason, and act—deploying custom LLM integrations and pixel-perfect OpenCV pipelines tailored for absolute precision.
 
-### Perceives
-Byte-level, OpenCV-style pipelines that extract data without generic cloud vision APIs.
+<br>
 
-</td>
-<td width="33%" valign="top">
+---
 
-### Acts
-Forward deployed engineering. Scalable React, Next.js and Node.js platforms, plus lightweight AI widgets embedded into existing infrastructure.
+<br>
 
-</td>
-</tr>
-</table>
+<h3 align="center">C O R E &nbsp; E N G I N E E R I N G</h3>
 
-## Selected work
+<br>
 
-| Project | What it does | Links |
-| :-- | :-- | :-- |
-| **Tile Extractor**<br>PDF parsing, utility | Lossless extraction of high-quality images straight from large PDF catalogues, built on byte-level extraction rather than cloud APIs. **1,500+ GitHub clones in 6 days.** | [Open](https://tile-extractor-r3ce.onrender.com/) · [Framework](https://tile-extractor-r3ce.onrender.com/engine.html) · [Repo](https://github.com/somyabhalani/tile-extractor) |
-| **Kiwi AI**<br>RAG, SaaS, live | Turns documents and website links into a custom AI assistant. Embeds anywhere with a single line of code, powered by hybrid retrieval and context management. | [Open](https://kiwi-ai-rho.vercel.app/) |
-| **Ananta Memory**<br>Extension, offline, privacy | Saves everything you read into a fully offline, local database. Instant search of your reading history with zero cloud dependency. | [Open](https://ananta-extension.vercel.app/) |
-| **Solara**<br>Engineering, platform, offline | Computes electrical loads, packs rooftop layouts and simulates seasonal irradiation, then generates vector engineering blueprints entirely in the browser. | [Open](https://solara-dash.vercel.app/) · [Repo](https://github.com/somyabhalani/solara) |
-| **Cinehaul**<br>Next.js, platform, live | Community platform for discovering, rating and tracking movies and TV series, with personal collections and reputation badges. | [Open](https://cinehaul.vercel.app/) · [How it works](https://cinehaul.vercel.app/how-it-works) |
-| **SvaraTV**<br>Streaming, Android and Windows, live | Ad-free streaming app bringing thousands of global live TV channels and sports to Windows and Android. | [Open](https://svaratv.vercel.app) |
+> **[Kiwi AI](https://kiwi-ai-rho.vercel.app/)** &nbsp; ✦ &nbsp; *RAG · SaaS · Live*  
+> An intelligent chatbot builder that transforms documents and website links into a custom AI assistant. Embeds anywhere with a single line of code, powered by advanced hybrid retrieval and context management.
 
-## Toolkit
+<br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-hybrid_retrieval-5B45D6?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-byte--level-E0508F?style=flat-square)
+> **[Solara](https://solara-dash.vercel.app/)** &nbsp; ✦ &nbsp; *Engineering · Platform · Offline*  
+> An intelligent solar planning platform that computes electrical loads, packs rooftop layouts, and simulates seasonal irradiation. Generates high-fidelity vector engineering blueprints entirely in-browser with zero server latency.
 
-## How I work
+<br>
 
-**Infrastructure over features. Clarity over cleverness. Systems over shortcuts.**
+> **[Tile Extractor](https://tile-extractor-r3ce.onrender.com/)** &nbsp; ✦ &nbsp; *PDF Parsing · Utility · Computer Vision*  
+> A heavy-duty utility for the lossless extraction of high-quality images directly from large PDF catalogues. Automates large-scale asset recovery with sheer performance and precision based on byte-level extraction.
 
-## Reach out
+<br>
 
-Have a system that needs to reason, perceive, or act? Write to [somyabhalani@gmail.com](mailto:somyabhalani@gmail.com) or [hello@anantalabs.app](mailto:hello@anantalabs.app), or send an inquiry through the [portfolio](https://somyabhalani-portfolio.vercel.app/).
+> **[Cinehaul](https://cinehaul.vercel.app/)** &nbsp; ✦ &nbsp; *Next.js · Platform · Live*  
+> A premium, community-driven platform for discovering, rating, and tracking movies and TV series. Curate personal collections and earn reputation badges within a dedicated cinema community.
+
+<br>
+
+> **[Ananta Memory](https://ananta-extension.vercel.app/)** &nbsp; ✦ &nbsp; *Extension · Offline · Privacy*  
+> A privacy-first browser extension that saves everything you read into a fully offline, local database. Search your reading history instantly with zero cloud dependency — built for absolute data ownership.
+
+<br>
+
+> **[SvaraTV](https://svaratv.vercel.app)** &nbsp; ✦ &nbsp; *Streaming · Android/Windows · Live*  
+> A premium, ad-free streaming application bringing thousands of global live TV channels and sports to Windows and Android through a sleek, subscription-free interface.
+
+<br>
+
+---
+
+<br>
+
+<h3 align="center">O P E N &nbsp; S O U R C E &nbsp; I M P A C T</h3>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=somyabhalani&show_icons=true&theme=transparent&hide_border=true&title_color=8b7355&icon_color=8b7355" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somyabhalani&theme=transparent&hide_border=true&ring=8b7355&fire=8b7355&currStreakNum=8b7355" alt="GitHub Streak" width="48%" />
+</div>
+
+<br>
