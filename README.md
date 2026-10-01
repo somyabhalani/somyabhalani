@@ -89,7 +89,7 @@
 <br><br>
 
 <div align="center">
-  <a href="mailto:hello@anantalabs.app">
+  <a href="mailto:somyabhalani@gmail.com">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=1c1612&height=250&section=footer&text=Let's%20Architect%20The%20Future&fontSize=45&fontColor=8b7355&desc=hello@anantalabs.app&descSize=15&descAlignY=70&descAlign=50&animation=twinkling" width="100%"/>
   </a>
 </div>
